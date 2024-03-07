@@ -61,13 +61,14 @@ Siga estas etapas para configurar o ALR Space em sua máquina:
 
 Contribuições são bem-vindas! Se você deseja melhorar o ALR Space, siga estas diretrizes:
 
-Faça um Fork do projeto
-Crie uma nova branch (git checkout -b feature/nova-feature)
-Faça commit das suas alterações (git commit -am 'Adiciona nova feature')
-Faça push para a branch (git push origin feature/nova-feature)
-Abra um Pull Request
-Contato
+1. Faça um Fork do projeto
+2. Crie uma nova branch `git checkout -b feature/nova-feature`
+3. Faça commit das suas alterações `git commit -am 'Adiciona nova feature'`
+4. Faça push para a branch `git push origin feature/nova-feature`
+5. Abra um Pull Request
+
+### Contato
+
 Se precisar de ajuda ou tiver alguma dúvida, sinta-se à vontade para entrar em contato:
 
-Desenvolvedor: Nome do Desenvolvedor
-Email: desenvolvedor@email.com
+Desenvolvedor: @devbdallagnol
